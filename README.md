@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Ramzi, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Ramzi, a software engineer, i have 3 years experience working as a fullStack JS (MERN) developer
 
 <!-- Want to know more about me? [Check out my portfolio.](https://) -->
 
