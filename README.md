@@ -49,9 +49,9 @@ I’m Ramzi, a software engineer, i have 3 years experience working as a fullSta
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 
-<details>
+<!-- <details>
 <summary>More Skills</summary>
-<br>
+<br> -->
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
